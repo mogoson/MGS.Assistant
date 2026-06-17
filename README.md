@@ -1,6 +1,6 @@
 [TOC]
 
-# MGS.assistant
+# MGS.Assistant
 
 ## Summary
 
