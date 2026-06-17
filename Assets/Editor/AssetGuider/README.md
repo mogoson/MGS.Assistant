@@ -18,7 +18,7 @@
 - Set the default application of Asset by type(extension) in OS. example set "Sublime Text" as the default editor of Shader Asset.
 
 ## Usage
-1. Click the menu item "Tools/Guider Editor" in Unity editor menu bar to open the Asset Guider Editor.
+1. Click the menu item "Tools/Assistant/Asset Guider" in Unity editor menu bar to open the Asset Guider Editor.
 
 1. Config the "Extensions" in the Asset Guider Editor.
 

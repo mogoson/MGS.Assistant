@@ -10,7 +10,7 @@ Unity plugin for asset name specification filter.
 - Check the name of assets under the target directory, filter and display the assets those name is mismatch the define specification.
 
 ## Usage
-1. Find the menu item "Tools/Asset Filter" in Unity editor menu bar and click it or press key combination Alt+F to open the "Asset Filter" editor window.
+1. Find the menu item "Tools/Assistant/Asset Filter" in Unity editor menu bar and click it to open the "Asset Filter" editor window.
 2. Click the "Browse" button to select the "Directory".
 3. Click the "New" button to create the "Settings", select and config it in Unity Inspector. 
 4. Click the "Check" button to start check the target assets names.
