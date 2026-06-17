@@ -1,6 +1,6 @@
 {
-    "name": "MGS.Assemblyman.Editor",
-    "rootNamespace": "MGS.Assemblyman.Editor",
+    "name": "MGS.AssetFilter.Editor",
+    "rootNamespace": "MGS.AssetFilter.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
