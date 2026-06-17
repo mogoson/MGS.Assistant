@@ -1,6 +1,6 @@
 {
-    "name": "MGS.QuickAssistant.Editor",
-    "rootNamespace": "MGS.QuickAssistant.Editor",
+    "name": "MGS.Finder.Editor",
+    "rootNamespace": "MGS.Finder.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
