@@ -3,7 +3,7 @@
 # MGS.Assemblyman
 
 ## Summary
-- Editor to analyse assembly.
+- Editor to analysis assembly.
 
 ## Ability
 - Show assemblies reference by a lib.
